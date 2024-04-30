@@ -1,2 +1,25 @@
 # SQL-Notes
+
 Here you will get the notes of SQL.
+
+- [#1 - Maximum Salary](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_1.sql)
+- [#2 - Check the number whether it ever or odd](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_2.sql)
+- [#3 - Number of employees joined in month of December](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_3.sql)
+- [#4 - name, salary and deptno of all employees who belongs to deptno 20 using cursor](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_4.sql)
+- [#5 - Factorial of Number](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_5.sql)
+- [#6 - pirnt information of customer having product name as 'pendrive' using cursor](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_6.sql)
+- [#7 - Accpet number and print reverse of that number](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_7.sql)
+- [#8 - display rollno, name, feespaid of student whose course is 'BCA' (Using cursor)](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_8.sql)
+- [#9 - accept a number and print sum of digits of that number](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_9.sql)
+- [#10 - display empno, ename of employees working in deptno 20 (Using cursor)](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_10.sql)
+- [#11 - accept a number and print table of that number in descending order](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_11.sql)
+- [#12 - display rollno, name, city of student living in 'Pune'. (Using cursor)](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_12.sql)
+- [#13 - accept 10 numbers and print sum of even numbers](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_13.sql)
+- [#14 - accept a name from user & check number of characters in the name and print the name that many times on a seprate line](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_14.sql)
+- [#15 - print each character on seprate line](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_15.sql)
+- [#16 - number is palindrome number or not](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_16.sql)
+- [#17 - print table of numbers between given range](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_17.sql)
+- [#18 - Accept 10 numbers and print sum of even numbers and odd numbers sepratly](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_18.sql)
+- [#19 - String pattern](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_19.sql)
+- [#20 - Number is armstrong number or not](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_20.sql)
+- [#21 - check how many times character present in String](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_21.sql)
