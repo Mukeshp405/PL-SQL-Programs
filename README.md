@@ -1,6 +1,6 @@
 # SQL-Notes
 
-Here you will get the notes of SQL.
+Here you will get the notes of PL/SQL.
 
 - [#1 - Maximum Salary](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_1.sql)
 - [#2 - Check the number whether it ever or odd](https://github.com/Mukeshp405/PL-SQL-Programs/blob/main/PL-SQL_Porgrams/practical_paper_2.sql)
