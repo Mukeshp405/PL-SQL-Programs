@@ -1,5 +1,5 @@
 /*
-Write a PL/SQL block to display rollno, name, feespaid of student living in 'Pune'. (Using cursor)
+Write a PL/SQL block to display rollno, name, city of student living in 'Pune'. (Using cursor)
 */
 
 Declare
