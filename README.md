@@ -1,4 +1,4 @@
-# SQL-Notes
+# PL/SQL-Notes
 
 Here you will get the Programs of PL/SQL.
 
